@@ -7,6 +7,7 @@
 A real-time desktop diagnostic tool built with Python and Tkinter to monitor outbound network connections and visualize what metadata your Internet Service Provider (ISP) and network gateways log.
 
 ![Preview](assets/Image.png)
+![Preview](assets/preview.png)
 
 ## Overview
 
